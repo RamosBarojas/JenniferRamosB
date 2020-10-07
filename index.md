@@ -35,6 +35,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Datos de Contacto
 
  [Image] (src) 
+ ![Image](src)
  
 Facebook: Jennifer Ramos Barojas
 Twitter: 
