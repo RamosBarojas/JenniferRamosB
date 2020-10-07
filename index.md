@@ -37,8 +37,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Datos de Contacto
 
  [Image] (src) 
- ![Image](src)
- 
+ [https://www.google.com/search?q=logo+facebook+png&tbm=isch&ved=2ahUKEwjgjtu23qLsAhUISKwKHesrCIcQ2-cCegQIABAA&oq=logo+facebook+png&gs_lcp=CgNpbWcQAzIHCAAQsQMQQzICCAAyAggAMgIIADICCAAyAggAMgIIADICCAAyAggAMgIIADoFCAAQsQM6BAgAEENQqCNYtixgrTBoAHAAeACAAckBiAGtBJIBBTAuMy4xmAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=zNZ9X-D4MYiQsQXr16C4CA&bih=568&biw=1242&safe=active#imgrc=dHv9vocPaElngM](url) and ![Image](src) 
 Facebook: Jennifer Ramos Barojas
 Twitter: 
 Correo electrónico: junybarojas@gmail.com
