@@ -1,11 +1,9 @@
 ## ¡Bienvenido a mi página personal!
 
-You can use the [editor on GitHub](https://github.com/RamosBarojas/JenniferRamosB/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Actualmente soy estudiante de la licenciatura en Biología de la Universidad Veracruzana en la ciudad de Xalapa, Ver.
+Tengo 23 años.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-###Jennifer Ramos Barojas
-
+###
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
@@ -35,9 +33,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Cursos
 
 ### Datos de Contacto
-
- [Image] (src) 
- [https://www.google.com/search?q=logo+facebook+png&tbm=isch&ved=2ahUKEwjgjtu23qLsAhUISKwKHesrCIcQ2-cCegQIABAA&oq=logo+facebook+png&gs_lcp=CgNpbWcQAzIHCAAQsQMQQzICCAAyAggAMgIIADICCAAyAggAMgIIADICCAAyAggAMgIIADoFCAAQsQM6BAgAEENQqCNYtixgrTBoAHAAeACAAckBiAGtBJIBBTAuMy4xmAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=zNZ9X-D4MYiQsQXr16C4CA&bih=568&biw=1242&safe=active#imgrc=dHv9vocPaElngM](url) and ![Image](src) 
+:speech_balloon:
 Facebook: Jennifer Ramos Barojas
 Twitter: 
 Correo electrónico: junybarojas@gmail.com
