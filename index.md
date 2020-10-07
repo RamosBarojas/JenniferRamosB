@@ -33,6 +33,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Cursos
 
 ### Datos de Contacto
+![Image](https://github.com/RamosBarojas/JenniferRamosB/issues/1)
 :speech_balloon:
 Facebook: Jennifer Ramos Barojas
 Twitter: 
