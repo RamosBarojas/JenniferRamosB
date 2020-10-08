@@ -3,28 +3,6 @@
 Actualmente soy estudiante de la licenciatura en Biología de la Universidad Veracruzana en la ciudad de Xalapa, Ver.
 Tengo 23 años.
 
-###
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## eader 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-
 
 ### Escolaridad
 
